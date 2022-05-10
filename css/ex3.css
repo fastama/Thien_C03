@@ -1,0 +1,14 @@
+.cover {
+    background-image: url(../img/cover.jpg);
+    height: 300px;
+    color: white;
+    padding-top: 200px;
+    padding-left: 350px;
+}
+.avarta {
+    width: 200px;
+    height: 200px;
+    border: solid 10px white;
+    margin-left: 100px;
+    margin-top: -150px;
+}
